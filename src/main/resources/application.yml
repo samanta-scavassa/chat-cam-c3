@@ -1,0 +1,9 @@
+# SERVER
+server:
+  port: 3012
+
+spring:
+  application:
+    name: 'chatcam'
+
+
